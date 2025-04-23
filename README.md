@@ -1,17 +1,17 @@
 # Sbseg_2025
 ## Requisitos
-'''bash
+```bash
 sudo apt-get install libssl-dev
-'''
+```
 
 ##Executar
 
-'''bash
+```bash
 bash run.sh
-'''
+```
 Executa todos os algoritmos 10000 vezes
 
-'''bash
-bash run_<algoritmos>.sh
-'''
+```bash
+bash run_<algoritmo>.sh
+```
 Executa um algoritmo específico 10000 vezes
